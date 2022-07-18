@@ -1,0 +1,24 @@
+{
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "16.6.x"
+  },
+  "name": "halobot",
+  "version": "2.0.0",
+  "description": "Bot for players visualization and other features",
+  "main": "bot.js",
+  "autor": "Edgar Gonz�lez (Fochman)",
+  "dependencies": {
+    "@discordjs/rest": "^0.6.0",
+    "@discordjs/voice": "^0.7.5",
+    "dgram": "^1.0.1",
+    "discord-api-types": "^0.36.2",
+    "discord.js": "^13.5.0",
+    "dotenv": "^10.0.0",
+    "mongodb": "^4.2.2",
+    "winston": "^3.3.3",
+    "xmlhttprequest": "^1.8.0"
+  }
+}

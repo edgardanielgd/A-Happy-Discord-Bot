@@ -1,0 +1,11 @@
+{
+    "databaseName" : "dbDiscordBot",
+    "playersCollectionName" : "playersInfo",
+    "itemsPerPage" : 10,
+    "allowedChannels" : [
+        "879058628118741002",
+        "744917981095788645",
+        "912426807163252798"
+    ]
+
+}
